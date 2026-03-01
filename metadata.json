@@ -1,0 +1,5 @@
+{
+  "name": "Polyphonic DS-Music Lab",
+  "description": "An algorithmic music generator that visualizes polyphonic compositions through C-inspired data structures like linked lists, heaps, and graphs.",
+  "requestFramePermissions": []
+}
